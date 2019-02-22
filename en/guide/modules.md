@@ -50,7 +50,7 @@ export default function SimpleModule (moduleOptions) {
 
 **`moduleOptions`**
 
-This is the object passed using `modules` array by user we can use it to customize it's behavior.
+This is the object passed in the `modules` array in your `nuxt.config.js` file. The options can be used to customize the module's behavior.
 
 **`this.options`**
 
